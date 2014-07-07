@@ -4,6 +4,7 @@
 100 Doors implementation in Go
 
 Running this gave me the result below:
+
 Doors #1: is open
 
 Doors #2: is closed
